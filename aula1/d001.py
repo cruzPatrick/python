@@ -19,3 +19,4 @@ num1 = input('escreva um número ')
 num2 = input('escreva outro número ')
 num3 = num1+num2
 print('a soma de',num1,'e',num2,'é',num3)
+print('deu ruim, mas vai ter a correção na próxima aula')
