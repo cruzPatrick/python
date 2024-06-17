@@ -1,0 +1,1 @@
+#Leia um num int qqualquer e paça para escolher qual a base de conversão: 1 para bin, 2 para octal, 3 para hex

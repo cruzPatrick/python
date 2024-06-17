@@ -1,0 +1,1 @@
+#leia duas notas e faça a media, se media <5=reprovado, se media entre 5 e 6.9 recuperação, se media>=7 aprovado

@@ -1,0 +1,1 @@
+#programa que leia o ano de nascimento e mostre sua categoria de acordo com a idade: até 9 = mirim; ate 14 = infantil; ate 19=junior; ate 20=senior;acima=master

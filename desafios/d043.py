@@ -1,0 +1,1 @@
+#leia o peso e a altura, calcule o mmc e mostre o status: abaixo de 18.5=abaixo do peso;entre 18.5 e 25=peso ideal; 25 até 30=sobrepeso;30 a 40=obesidade;acima de 40=obesidade mórbida

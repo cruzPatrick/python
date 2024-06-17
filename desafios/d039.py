@@ -1,0 +1,1 @@
+#leia o ano de nascimento e informe de acordo com sua idade: -Se ele ainda vai se alistar, - Se é a hora de se alistar, -Se já passou do tempo de alistamento. Tambem deverá mostrar o tempo que falta ou que passou do prazo

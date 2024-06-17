@@ -1,0 +1,1 @@
+#Programa que aprove o emprestimo bancário para compra de uma casa. O programa vai perguntar o valor da casa, o salario do comprador e em quantos anos ele vai pagar. Calcule a prestação mensal, sabendo que ela não pode exceder 30% do salário ou então o empréstimo será negado
