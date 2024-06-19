@@ -7,11 +7,11 @@ clas = int(anoA.tm_year) - ano
 
 if clas<9:
     print('seu atleta é mirim')
-elif clas>9 and clas<=14:
+elif clas<=14:
     print('seu atleta é infantil')
-elif clas>14 and clas<=19:
+elif clas<=19:
     print('seu atleta é junior')
-elif clas<20:
+elif clas<=20:
     print('Seu atleta é senior')
 else:
     print('Seu atleta é master')
